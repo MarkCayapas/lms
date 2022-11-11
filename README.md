@@ -6,4 +6,4 @@
 🔭 I’m currently working on my Body
 🌱 I’m currently learning JS Frameworks
 😄 Pronouns: His/Her
-⚡ Fun fact: :)
+⚡ Fun fact: :) :)
